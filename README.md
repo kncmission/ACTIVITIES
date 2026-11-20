@@ -1,4 +1,4 @@
-<h2 style="color: #8A9A5B;"> # ⋆˚✿˖° Hello, World! I'm Kyla Nicole C. Mission</h2>
+<h2 style="color: #8A9A5B;"> # ⋆˚✿˖° Hello, World! I'm Kyla Nicole C. Mission </h2>
 
 <div align="center">
 
