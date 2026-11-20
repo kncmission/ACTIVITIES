@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="(miscellaneous/5d1fe067-d110-4b90-bd8d-d34d9a65c4c8.jfif)" width="150" height="150" style="border-radius: 50%;" alt="Kyla's GitHub Profile Photo"/>
+<img src="miscellaneous/5d1fe067-d110-4b90-bd8d-d34d9a65c4c8.jfif" width="150" height="150" style="border-radius: 50%;" alt="Kyla's GitHub Profile Photo"/>
 
 ### BSN Student | Aspiring Registered Nurse | Tech Enthusiast
 
