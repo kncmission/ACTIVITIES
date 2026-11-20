@@ -1,12 +1,12 @@
-# 🌿 Hello, World! I'm Kyla Nicole C. Mission
+# ⋆˚✿˖° Hello, World! I'm Kyla Nicole C. Mission
 
 <div align="center">
 
 <img src="miscellaneous/5d1fe067-d110-4b90-bd8d-d34d9a65c4c8.jfif" width="150" height="150" style="border-radius: 50%;" alt="Kyla's GitHub Profile Photo"/>
 
-### BSN Student | Aspiring Registered Nurse | Tech Enthusiast
+### BSN Student | Aspiring Registered Nurse 
 
-*"Learning, growing, and creating one step at a time."*
+°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･
 
 [![GitHub](https://img.shields.io/badge/GitHub-kncmission-708D81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kncmission)
 
@@ -14,13 +14,13 @@
 
 ---
 
-## 🌱 About Me
+## ⋆˚✿˖° About Me
 
 Hi! I'm **Kyla**, a 4th Year Bachelor of Science in Nursing student at **Ateneo de Davao University**.
 
 I am passionate about healthcare, continuous learning, and personal development. Beyond nursing, I also enjoy exploring technology, coding, and website development. I appreciate opportunities to combine creativity and technical skills while discovering new things along the way.
 
-## 💻 Skills & Tools
+## ⋆˚✿˖° Skills & Tools
 
 <div align="center">
 
@@ -40,7 +40,7 @@ I am passionate about healthcare, continuous learning, and personal development.
 - **Digital Design:** Canva and creative layouts
 - **Productivity:** Microsoft Word, PowerPoint, and Excel
 
-## ☁️ Interests
+## ⋆˚✿˖° Interests
 
 - 🩺 Nursing and Healthcare
 - 💻 Coding and Web Development
@@ -50,11 +50,6 @@ I am passionate about healthcare, continuous learning, and personal development.
 
 ---
 
-<div align="center">
-
-### ✨ A Little Reminder
-
-*Always curious, always learning, always growing.*
 
 **Thanks for visiting my profile! ♡**
 
