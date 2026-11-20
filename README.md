@@ -18,7 +18,9 @@
 
 Hi! I'm **Kyla**, a 4th Year Bachelor of Science in Nursing student at **Ateneo de Davao University**.
 
-I am passionate about healthcare, continuous learning, and personal development. Beyond nursing, I also enjoy exploring technology, coding, and website development. I appreciate opportunities to combine creativity and technical skills while discovering new things along the way.
+I consider myself a creative person with a strong inclination toward the arts. I enjoy drawing, painting, and exploring different forms of visual expression, including graphic design. I love bringing ideas to life through creativity and experimenting with different styles and designs.
+
+Aside from my artistic interests, I am also passionate about nursing, continuous learning, and personal growth. I enjoy exploring new skills, including coding and website development, and discovering how creativity can be applied in different fields.
 
 ## ⋆˚✿˖° Skills & Tools
 
@@ -34,16 +36,13 @@ I am passionate about healthcare, continuous learning, and personal development.
 
 </div>
 
-- **Web Development:** Basic HTML, CSS, and JavaScript
-- **Programming:** Basic coding and website development
-- **Version Control:** GitHub and repository management
-- **Digital Design:** Canva and creative layouts
+- **Traditional Arts:** Drawing, sketching, and painting
+- **Graphic Design:** Digital layouts, visual composition, and creative design
 - **Productivity:** Microsoft Word, PowerPoint, and Excel
 
 ## ⋆˚✿˖° Interests
 
 - 🩺 Nursing and Healthcare
-- 💻 Coding and Web Development
 - 🎨 Creative and Digital Design
 - ☕ Coffee and Journaling
 - 📚 Learning and Self-Improvement
